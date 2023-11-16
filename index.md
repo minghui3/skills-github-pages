@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!!
+Ming Hui: Welcome to my blog!!
 ---
 
